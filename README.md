@@ -1,8 +1,8 @@
-![Twitter Data Analysis Dashboard]
+
 ![Screenshot 2024-04-12 195321](https://github.com/shushanth2003/TANSAM-Internship/assets/103485945/cfd789f9-19b2-4a18-982c-e0471428730d)
 
 
-### Dashboard Overview:
+### Dashboard Overview in Postgresql:
 
 - **Date Range Selector:** Allows users to view data for a specific date range, such as June 13, 2020, to June 29, 2020.
   
